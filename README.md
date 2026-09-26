@@ -1,4 +1,4 @@
-# ESP32 + Seengreat RGB Matrix P3.0 64x64
+# ESP32 + RGB Matrix P3.0 64x64
 
 Starter PlatformIO project for a HiLetGo NodeMCU-32S / ESP-WROOM-32 and the Seengreat P3.0 64x64 RGB matrix.
 
