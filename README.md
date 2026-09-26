@@ -1,5 +1,7 @@
 # ESP32 + RGB Matrix P3.0 64x64
 
+## my grad cap <3
+
 Starter PlatformIO project for a HiLetGo NodeMCU-32S / ESP-WROOM-32 and the Seengreat P3.0 64x64 RGB matrix.
 
 ## Wire the HUB75 **input** connector
